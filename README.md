@@ -1,13 +1,13 @@
 
-# react-native-react-native-test
+# react-native-test
 
 ## Getting started
 
-`$ npm install react-native-react-native-test --save`
+`$ npm install react-native-test --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-react-native-test`
+`$ react-native link react-native-test`
 
 ### Manual installation
 
